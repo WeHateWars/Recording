@@ -2,7 +2,7 @@
 
 ## Introduction
 
-February 2020 is not even close to the root of everything. Everything was started long ago. This is a story about how fandom could get out of hand. This is a story about how a man with no special talent could be called a super star once he was supported by adequate amount of money. Also a story on "what if that man cares nothing about social good", on "what if that man is willing to sacrifice everyone else to exchange for money as much as possible".
+[February 2020](./202002/) is not even close to the root of everything. Everything was started long ago. This is a story about how fandom could get out of hand. This is a story about how a man with no special talent could be called a super star once he was supported by adequate amount of money. Also a story on "what if that man cares nothing about social good", on "what if that man is willing to sacrifice everyone else to exchange for money as much as possible".
 
 That man's name is Zhan Xiao. Sometimes his fans call him XiaoZhan in English, due to the lack of cultural-background knowledge. They took Chinese habit for granted, assuming that in English we also say the family name first. Anyway, the name doesn't matter that much. He is a product, a label, a flag, the representative of a very problemmatic phenomenon, yet not even close to the core of the problem itself.
 
@@ -17,3 +17,11 @@ As you can see, there's no guarantee. We are young researchers, young students, 
 If, by any chance, after knowing what he and his team have done, you want to do something to say **NO** you don't want to support a **superstar** like such, you'd need to be careful, for he has the craziest collection of fans in the world. No matter who you are and where you're from, they'll try their best to figure out your identity and ruin your life, as long as you aren't willing to show support to their idol.
 
 We have no other place to record the process of the event. They keep reporting us for nonsense reasons. Zhan and his team asked his fans to do so, so as to pretend that nothing has happened. We won't let that happen. Therefore we started this repository.
+
+## Breaking Point: AO3 was Blocked on Febrary $27^{th}$, 2020
+
+We believe that Zhan Xiao is responsible for that his crazy fans urged to shut down [AO3](https://archiveofourown.org/).
+
+That was when Zhan Xiao made a lot of Chinese younsters angry. Meanwhile, he also offended many others who are not AO3 users, but care about education, public benefit, charity, public health, agriculture, etc.
+
+For more details see records of [February 2020](./202002/).
