@@ -1,4 +1,4 @@
-# Recording of XZ-related Events since Feb 2020
+# Recording of Zhan-related Events since Feb 2020
 
 ## Introduction
 
